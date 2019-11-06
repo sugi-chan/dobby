@@ -1,4 +1,4 @@
-from tragedy import convert_agent_output_to_judge_input, OutfitEnv
+from outfiting_env import convert_agent_output_to_judge_input, OutfitEnv
 from netlearner import DQNLearner
 import time
 import pandas as pd
